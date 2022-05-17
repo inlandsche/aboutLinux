@@ -255,11 +255,11 @@ Selain if else, terdapat perintah `case` yang mempunyai fungsi mirip dengan if e
 
 ```bash
     case <variable> in
-    <pattern 1>)
-    <commands>
+      <pattern 1>)
+      <commands>
     ;;
-    <pattern 2>)
-    <other commands>
+      <pattern 2>)
+      <other commands>
     ;;
     esac
 ```
@@ -308,13 +308,13 @@ Pada bash, function atau fungsi digunakan untuk membuat suatu fungsi tambahan ya
 
 ```bash
     function_name () {
-    <commands>
+      <commands>
     }
 ```
 
 ```bash
     greetings(){
-    echo Good Morning
+      echo Good Morning
     }
 ```
 
