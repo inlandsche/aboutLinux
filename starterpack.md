@@ -81,9 +81,9 @@ Wildcards atau karakter pengganti merupakan sekumpulan blocks yang dapat digunak
 
 Terdapat beberapa set dasar dari wildcards.
 
-* \* merepresentasikan nol karakter atau lebih
-* ? merepresentasikan satu karakter
-* [] merepresentasikan sebuah jangkauan dari karakter
+* `\*` merepresentasikan nol karakter atau lebih
+* `?` merepresentasikan satu karakter
+* `[]` merepresentasikan sebuah jangkauan dari karakter
 
 #### [g] Permissions
 Permissions atau perizinan terbagi menjadi tiga bagian, yaitu
